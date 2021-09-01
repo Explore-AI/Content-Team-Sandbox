@@ -9,6 +9,7 @@
 ##Section 3
 
 ##Section 4
+What's brown and sticky? A stick.
 
 ##Section 5
 
